@@ -1,0 +1,21 @@
+# ninja log v7
+2	41	8155703985897029	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	2b1d7f0dfd67decf
+2	41	8155703985897029	C:/Users/jarod/Documents/College/2026/CMPS 2143/JarodColen - Github/2143-object-oriented-programming-colen/P01/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	2b1d7f0dfd67decf
+41	1075	8155703996225611	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	a05a64fb502ba63b
+41	1075	8155703996225611	C:/Users/jarod/Documents/College/2026/CMPS 2143/JarodColen - Github/2143-object-oriented-programming-colen/P01/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	a05a64fb502ba63b
+1075	1124	8155703996719159	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	6c85086829469743
+1075	1124	8155703996719159	C:/Users/jarod/Documents/College/2026/CMPS 2143/JarodColen - Github/2143-object-oriented-programming-colen/P01/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	6c85086829469743
+1124	1165	8155703997127791	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	9e48cca46cd8a58e
+1124	1165	8155703997127791	C:/Users/jarod/Documents/College/2026/CMPS 2143/JarodColen - Github/2143-object-oriented-programming-colen/P01/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	9e48cca46cd8a58e
+1165	1206	8155703997542656	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	933f4bace1f48311
+1165	1206	8155703997542656	C:/Users/jarod/Documents/College/2026/CMPS 2143/JarodColen - Github/2143-object-oriented-programming-colen/P01/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	933f4bace1f48311
+1207	1247	8155703997951620	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	8c527b69a2370a8
+1207	1247	8155703997951620	C:/Users/jarod/Documents/College/2026/CMPS 2143/JarodColen - Github/2143-object-oriented-programming-colen/P01/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	8c527b69a2370a8
+1247	1289	8155703998370287	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	981c1c4547ec5970
+1247	1289	8155703998370287	C:/Users/jarod/Documents/College/2026/CMPS 2143/JarodColen - Github/2143-object-oriented-programming-colen/P01/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	981c1c4547ec5970
+1289	1329	8155703998779341	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	7eea1e070818ff7
+1289	1329	8155703998779341	C:/Users/jarod/Documents/College/2026/CMPS 2143/JarodColen - Github/2143-object-oriented-programming-colen/P01/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	7eea1e070818ff7
+1329	1383	8155703999317119	CMakeFiles/ftxui-populate-complete	c65d719538d9be4
+1329	1383	8155703999317119	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	c65d719538d9be4
+1329	1383	8155703999317119	C:/Users/jarod/Documents/College/2026/CMPS 2143/JarodColen - Github/2143-object-oriented-programming-colen/P01/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete	c65d719538d9be4
+1329	1383	8155703999317119	C:/Users/jarod/Documents/College/2026/CMPS 2143/JarodColen - Github/2143-object-oriented-programming-colen/P01/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	c65d719538d9be4
