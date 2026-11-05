@@ -1,12 +1,12 @@
-#Project 1
+# Project 1
 
-###2143 OOP - Fall 2026
+### 2143 OOP - Fall 2026
 
-###Jarod Colen
+### Jarod Colen
 
 ---
 
-build commands:
+*build commands:*
 
 cmake -S . -B build
 
